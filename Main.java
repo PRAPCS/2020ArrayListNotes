@@ -34,7 +34,7 @@ class Main {
       System.out.println(c);
     }
 
-    System.out.println(garage.get(1).getColor());
+    System.out.println(garage.get(1).getColor().toUpperCase());
 
   }
 }
